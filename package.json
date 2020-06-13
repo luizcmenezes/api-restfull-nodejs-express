@@ -1,0 +1,14 @@
+{
+  "name": "api-modulo-seguranca-minha-cenco",
+  "version": "1.0.0",
+  "description": "Modulo de segunraça Minha Cenco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
